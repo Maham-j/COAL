@@ -22,6 +22,20 @@ A concise assembly program that adds two single-digit numbers entered by the use
    - Use an assembler like TASM or MASM.
 2. **Run the Program:**
    - Execute in DOS or DOSBox.
+  
+## License 📄
 
- GNU GENERAL PUBLIC LICENSE
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE) - see the LICENSE file for details.
+
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+ 
 
