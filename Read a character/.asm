@@ -1,4 +1,4 @@
-;Read a character, and display it at the T'.ext position on the same line.
+;Read a character, and display it at the the next position on the same line.
 
 
 .model small
