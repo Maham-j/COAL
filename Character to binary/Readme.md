@@ -19,7 +19,7 @@ This cool assembly program takes a single character input and shows you its bina
 2. Execute the program.
 3. Enjoy the magic of binary conversion! ✨
 
-   ## Connect with Me 🌐 
+## Connect with Me 🌐 
 
 Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
 
