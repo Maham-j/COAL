@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .386
-.data
+.data 
 .code
 main proc
 
