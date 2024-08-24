@@ -32,3 +32,14 @@ This program is a straightforward implementation in assembly language that reads
 ## 📝 Notes
 - This program is a basic example and can be expanded to include further operations on the decimal input.
 
+## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
+
