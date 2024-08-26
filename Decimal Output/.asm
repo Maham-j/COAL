@@ -1,5 +1,5 @@
 .model small
-.stack 100h   
+.stack 100h    
 .386
 .data
 str1 db 13,10,'$'
