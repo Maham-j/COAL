@@ -1,6 +1,6 @@
 .model small
 .stack 100h
-.386
+.386 
 .data 
 new db 13,10,'$'
 .CODE
