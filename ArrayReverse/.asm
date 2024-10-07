@@ -1,7 +1,7 @@
 .model small
 .stack 100h
 .386
-.data
+.data 
 array db 100 dup(0)
 new db 10,13,'$'
 .CODE
