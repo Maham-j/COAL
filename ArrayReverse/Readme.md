@@ -1,5 +1,5 @@
 ## Reverse Input and Display
-
+ 
 ## 📋 Overview
 This program takes user input character by character until the **Enter** key (carriage return) is pressed, then reverses the input and displays it.
 
